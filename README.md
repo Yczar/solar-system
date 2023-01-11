@@ -2,7 +2,7 @@
 
 A 3D visualization of the solar system built with [Flutter](https://flutter.dev/) framework.
 
-![Solar System GIF](https://user-images.githubusercontent.com/32166619/211870015-16e58d71-66c0-4e86-98a0-f66afe8ecd8b.gif)
+![Solar System GIF](https://user-images.githubusercontent.com/32166619/211872067-720076e7-8a2d-403a-aa85-49c6a1a9b9fd.gif)
 
 ## Features
 
