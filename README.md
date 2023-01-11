@@ -1,16 +1,51 @@
-# solar_system
+# Solar System
 
-A new Flutter project.
+A 3D visualization of the solar system built with [Flutter](https://flutter.dev/) framework.
+
+![Solar System GIF](https://user-images.githubusercontent.com/32166619/211870015-16e58d71-66c0-4e86-98a0-f66afe8ecd8b.gif)
+
+## Features
+
+- Realistic visualization of the eight planets in our solar system
+- Ability to rotate and zoom in/out on the solar system
+- Textures and materials for each planet based on NASA imagery
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/Yczar/solar-system.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Navigate to the project directory:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+cd solar-system-3d
+```
+
+3. Install dependencies:
+
+```
+flutter pub get
+```
+
+4. Run the application on an emulator or connected device:
+
+```
+flutter run
+```
+
+## Built With
+
+- [Flutter](https://flutter.dev/) - A mobile app development framework
+- [three.dart](https://pub.dev/packages/three) - A 3D graphics library for Flutter
+- [NASA planetary images](https://www.nasa.gov/mission_pages/solarsystem/index.html) - Used for planet textures
+
+## Contributing
+
+If you're interested in contributing to this project, please feel free to submit a pull request. Any contributions, whether they be bug fixes or new features, are welcome and appreciated!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
